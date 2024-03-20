@@ -2,7 +2,7 @@
 
 I'm a full-stack engineer who is passionate about working on products that make a real impact in society. I enjoy working with people who foster growth, community, and diversity.
 
-- I'm currently contributing as a full-stack developer on [PhitNest](https://github.com/PhitNest)
+- I'm currently contributing as a full-stack developer at [Spero Institute](https://github.com/spero-institute)
 
 - <img src="assets/cloud-share.png" alt="cloud" width="15"/> I'm currently pursuing my AWS Certified Cloud Practitioner Certification
 - <img src="assets/python.png" alt="python" width="15"/> I'm currently learning Python
